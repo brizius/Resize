@@ -1,0 +1,4 @@
+Resize
+======
+
+Different resize methods
